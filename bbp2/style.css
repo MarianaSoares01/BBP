@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+.home {
+	width: 100%;
+	height: 100%;
+	background: lightblue
+}
+
+.textFormHome {
+	padding-top: 20%;
+	color: darkblue;
+	font-family: century gothic;
+}
+
+.section {
+	padding-top: 10%;
+	padding-bottom: 5%;
+	width: 100%;
+	height: auto;
+}
+
+.signIn {
+	background: rgba(255,255,255,.5);
+	padding: 5%;
+	border-bottom-right-radius: 5%;
+	border-bottom-left-radius: 5%;
+}
+
+.card-header {
+	background: lightblue!important
+}
+
+.btn-link {
+	color: black!important;
+}
+
+.btn-outline-success {
+	margin-left: 1%!important;
+}
+
+.animaisPerdidos {
+	padding-bottom: 10%;
+}
